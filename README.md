@@ -1,6 +1,9 @@
 
-[![GNU][license-shield]][license-url]
-[![BasicCodist][linkedin-shield]][basiccodist.in]
 # Unity Bucky Ball
-##Introduction to Unity basics with roll-a-ball sample project
+## Introduction to Unity basics with roll-a-ball sample project
+
+<br>
+  <a href="https://basiccodist.in/">
+   <h1>Basic Codist
+  </a>
  
